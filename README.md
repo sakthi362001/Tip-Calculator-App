@@ -1,2 +1,2 @@
-# Tip-Calculator-App
+# Tip-Calculater
  
